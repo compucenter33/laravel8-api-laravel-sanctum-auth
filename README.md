@@ -1,6 +1,9 @@
 Usamos laravel 8 para construir la api
 el metodo de seguridad que usamnos es sanctum
 Permite registrarse, logearse y añadir un articulo al blog
+En español TODO LO QUE NECESITAMOS
+
+TE DEJO EL VIDEO QUE LO EXPLICA TODO https://youtu.be/X4CvRNLH0wg
 
 Registrarse
 http://localhost:8000/api/register  
